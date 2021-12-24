@@ -23,6 +23,6 @@ public class Main {
         System.out.print("Show facade to ip >>>>");
         InetAddress ip = facade.getIp();
         System.out.println(ip);
-        
+
     }
 }
